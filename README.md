@@ -1,2 +1,3 @@
-# DS3_milestones
-Contains the text files for each milestone blog post for the term project in Design Studio 3
+# Milestone Blog Posts - Term Project (DS3)
+
+Contains the blog posts for each milestone for the term project in Design Studio 3.
